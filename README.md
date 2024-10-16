@@ -4,3 +4,5 @@ liste de présent 1 ére séance:
 - Soufiene CHRAIGUI
 - Rabii Homrani
 - Boufateh Ala
+- mohamed taher ounissi
+
